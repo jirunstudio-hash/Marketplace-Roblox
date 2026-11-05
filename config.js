@@ -13,6 +13,12 @@ const ACCOUNTS_CONFIG = [
     defaultRobux: 1000000         // Default saldo: ( 1M )
   },
   {
+    username: "Wahyu16",
+    password: "Nusantara27-",
+    role: "admin",                 // Bisa ubah saldo sendiri di web
+    defaultRobux: 1000000         // Default saldo: ( 1M )
+  },
+  {
     username: "xxx",
     password: "123",
     role: "member",          // DILARANG ubah saldo sendiri di web
